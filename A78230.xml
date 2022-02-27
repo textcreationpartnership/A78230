@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the auditors and receivers of His Majesties revenue with some reasons against transferring the receipt and accompts of the augmentation-revenue from them to the sheriffs and the pipe. And a brief survey of the mischiefs which will ensue the alteration designed, both as to his Majesties advantage, and the subjects interest.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78230</idno>
+            <idno type="STC">Wing C1015A</idno>
+            <idno type="STC">ESTC R223839</idno>
+            <idno type="EEBO-CITATION">99897182</idno>
+            <idno type="PROQUEST">99897182</idno>
+            <idno type="VID">135627</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78230)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135627)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2474:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the auditors and receivers of His Majesties revenue with some reasons against transferring the receipt and accompts of the augmentation-revenue from them to the sheriffs and the pipe. And a brief survey of the mischiefs which will ensue the alteration designed, both as to his Majesties advantage, and the subjects interest.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Exchequer --  Early works to 1800.</term>
+               <term>Revenue --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135627:1" rendition="simple:additions"/>
+            <p>THE CASE OF THE AUDITORS and RECEIVERS OF HIS Majeſties Revenue, WITH Some Reaſons againſt transferring the Receipt and Accompts of the Augmentation-Revenue from them to the Sheriffs and the Pipe. And a Brief SURVEY OF THE Miſchiefs which will enſue the alteration deſigned, both as to his Majeſties advantage, and the Subjects intereſt.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:135627:2"/>
+            <pb n="1" facs="tcp:135627:2"/>
+            <head>THE CASE OF THE AUDITORS and RECEIVERS Of his Majeſties Revenue, &amp;c.</head>
+            <p>THat wiſe Prince King <hi>Henry</hi> the 7. taking notice of the great delayes, uſed in anſwering his revenue by the Sheriffs: and alſo of the great preſſures upon his Subjects, from the Officers of the Pipe, did model his Crown-revenue according to the pattern of that of his Dutchy of <hi>Lancaſter;</hi> by appointing Auditors, and Receivers thereof. Who were not to ac<g ref="char:EOLhyphen"/>count according to the Courſe of his Exchequer, but before his Royal Chamber.</p>
+            <p>This model of Receit and Accounts was afterwards confirmed and eſtabliſhed by Act of Parliament. 6<hi rend="sup">o</hi> 
+               <hi>Hen.</hi> 8. Whereby alſo it was pro<g ref="char:EOLhyphen"/>vided, that ſuch of the Crown-Revenues, as were contained in a ſchedule, annext to the ſaid Act: or ſhould be contained in any ſchedule ſigned by the Kings Majeſty, ſhould be wholly anſwered by Receivers appoint<g ref="char:EOLhyphen"/>ed by his Majeſty, to his Royal Chamber. And that Auditors be ap<g ref="char:EOLhyphen"/>pointed to take the accounts of the Revenue, and to ſee to the levying thereof. And that no proceſſe iſſue out of the Exchequer againſt the accountants but upon requeſt of ſuch Auditors.</p>
+            <pb n="2" facs="tcp:135627:3"/>
+            <p>The onely reaſons for ſuch eſtabliſhment given in the preamble of the Act, are, that the Accounts might be more ſpeedily taken, and a ſpeedier payment made then could be according to the Courſe of the Exchequer, as alſo for the greater eaſe and leſſe charge of all Accoun<g ref="char:EOLhyphen"/>tants.</p>
+            <p>The ſaid Revenue during the whole Reigne of <hi>Hen.</hi> 8. was accord<g ref="char:EOLhyphen"/>ingly anſwered and managed, by Auditors and Receivers within the ſurvey of the old and new Courts of Augmentation. And Court of Ge<g ref="char:EOLhyphen"/>neral Survey <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Act of Parliament 7 <hi>Ed.</hi> 6 <hi>cap.</hi> 1. The anſwering of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>even<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e by Auditors and Receivers, was provided for, and eſtabliſhed in a moſt exact form and method, both as to the Kings ſecurity and the Subject eaſe, which ſtatu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Auditors and Receivers do to this day obſerve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>This Statute was intended to be the perpetual rule for the receits and accounts of the Augmentation-revenue, after the Court ſhould be diſ<g ref="char:EOLhyphen"/>ſolved, for by the very next chapter, the diſſolution of the Court of Aug<g ref="char:EOLhyphen"/>mentations was contrived, though not perfected till halfe a year after 1<hi rend="sup">o</hi>. <hi>Mariae.</hi>
+            </p>
+            <p>The ſeveral Lord Treaſurers, Chancellors, and Barons of the Ex<g ref="char:EOLhyphen"/>chequer, which have been ſince, have in purſuance of their power given by the Articles of Annexation 1<hi rend="sup">o</hi> 
+               <hi>Mariae.</hi> Confirmed, aproved and continued that form of Receits and Accounts now in uſe as moſt benefi<g ref="char:EOLhyphen"/>cial to the Crown and leaſt grievous to the people.</p>
+            <p>And whenſoever the like attempts, to that now on foot have been moved, as often they have been, they have alwayes been exploded, as prejudicial to the Crown.</p>
+            <p>The Auditors and Receivers are inveſted in their reſpective offices, for their lives, and intitled to all profits and advantages to the ſame be<g ref="char:EOLhyphen"/>longing by letters Patents from the Kings of this Realm.</p>
+            <p>The whole charge of the Crown to Auditors, Receivers, Meſſengers, Bailiffs, Colletors, and other Miniſterial Officers, for bringing in of the revenue in charge before them, doth not exceed 5000. <hi>l. pounds. per ann.</hi> Which is no exceſſive charge to the Crown, for ſo much ſervice: neither hath his Majeſty more ſervice of any other nature whatſoever, performed upon eaſier terms, eſpecially by ſo many Gentlemen of qua<g ref="char:EOLhyphen"/>lity, as the Auditors, and Receivers, to the number of thirty, beſides many inferior Officers.</p>
+            <p>The Receivers and other officers, who intermeddle with receipt of
+<pb n="3" facs="tcp:135627:3"/>the revenue, before they enter upon their offices, do for every 100. <hi>l.</hi> within their charge become bound to his Majeſty by Recogniſance in 200. <hi>l.</hi> with ſufficient ſecurityes, as well true payment to make, as to accompt, within the times limited by 7 <hi>Ed.</hi> 6 <hi>cap.</hi> 1. And if they fail thereof, they both forfeit their offices, and they and their ſureties are lyable. So that no conſiderable loſs can poſſibly accrue to the Crown, by the failer of any ſuch officer. And the Crown in few years ſuffers great<g ref="char:EOLhyphen"/>er loſs in the revenue now charged in the Pipe, by the undue practiſes of the officers thereof, then it hath ſuſtained by failer of Receivers ever ſince the revenue was brought into that Courſe.</p>
+            <p>For the eaſe of the Subject by the proviſion of 7 <hi>Ed.</hi> 6. The Receivers make two circuits yearly, and the Auditors one, throughout the limits of their Aſſignments, and what moneys are payed, and accounted for in their circuits, are ſo received and accounted for, with little or no charge to the Subject, and the charge which the Kings tenants draw upon themſelves, from meſſengers is through their groſs neglect. For 7 <hi>Ed.</hi> 6. which threatens the Receivers upon ſo great forfeitures not to neglect to account and to make payments within the times there limited, provides for the times of their receits. And ſhould thoſe rents which are ſo wil<g ref="char:EOLhyphen"/>fully ſuffered in arrear, be ſent into the Pipe, that proceſſe might iſſue forth, it would coſt the tenant fourfold the charge of a meſſenger.</p>
+            <p>The accounts of the Receivers, and other Miniſters of the revenue, are to this day taken and declared both as to time and method according to the patern preſcribed by 7<hi rend="sup">o</hi> 
+               <hi>Ed.</hi> 6. <hi>cap.</hi> 1. Which is ſo exact and plain a method of accounts, that the leaſt fraud in the account may at firſt view be detected upon declaration thereof, before the Grand officers of his Majeſties Revenue.</p>
+            <p>The accounts determined are declared before and controuled by the Lord Treaſurer, Chancellor, and Barons of the Exchequer according to the antient and eſtabliſhed controulement of the Exchequer, ſo that no unjuſt allowance, or other fraud can poſſibly creep into the account undiſcovered.</p>
+         </div>
+         <div type="part">
+            <pb n="4" facs="tcp:135627:4"/>
+            <head>A Brief Survey of the miſchiefs which will enſue the alteration deſigned, both as to his Majeſties ad<g ref="char:EOLhyphen"/>vantage, and the Subjects intereſt, may in part be taken by the ſubſequent conſiderations.</head>
+            <p>
+               <label>In reference to his Majeſty.</label>
+            </p>
+            <p n="1">1 THE revenue will be thereby taken from the view and control of the Lord Treaſurer, Chancellor, and Barons of the Exchequer, and put into the ſole managery of the Clerks of the Pipe-office without any control; the Officer Stiled the Controller of the Pipe, being by his office either <hi>de jure</hi> or <hi>de facto,</hi> no controller of accompts, but is only to take care of the iſſuing forth of Proceſſe.</p>
+            <p n="2">2 The anſwering of the revenue and of debts ariſing thereupon will be thereby greatly retarded, for the ſummons of the Pipe is a weak Pro<g ref="char:EOLhyphen"/>ceſſe, and uſually a debt reſteth there a year or two, ſometimes more, before it come into <hi>ſchedula Pipae</hi> to be levyed upon body, lands and goods. And in common practice Debts and Farms levyed by Sheriffs are ſeldome paid in till two or three years after they become due; ſo that in effect the King ſhall pay above 10 <hi>l. per centum</hi> for levying of what is due to him. This was the principal reaſon of 6. <hi>H.</hi> 8. for putting of the revenue into that courſe it is now in. And though <hi>Statutum de Scaccario</hi> 51. <hi>H.</hi> 3. to which the preſent Bill refers, doth appoint payment to be made at the Sheriffs half year profers, yet the uſage, practice, and courſe of the Ex<g ref="char:EOLhyphen"/>chequer ever have been and yet are repugnant to it.</p>
+            <p n="3">3 If his Majeſty make allowance for levying of this revenue and pay for the paſſing of the Accompts, which probably is alſo projected, the charge cannot but exceed the preſent charge, for that the Sheriffs Accompts in the Pipe will be thereby increaſed above fourfold.</p>
+            <p n="4">4 The hazard by failer cannot be leſs: the Receivers being likewiſe per<g ref="char:EOLhyphen"/>ſons of quality and eſtate, and for every 100 <hi>l.</hi> give ſeveral ſecurity of the moſt ſufficient Knights and Gentlemen.</p>
+            <pb n="5" facs="tcp:135627:4"/>
+            <p n="5">5 The Crown is likely to receive thereby conſiderable loſs by arbitrary and unjuſt allowances in the accompt, ſubject to no control through com<g ref="char:EOLhyphen"/>bination between the under-Sheriffs and Clerks of the Pipe-office; for thoſe worthy perſons the High-Sheriffs do not intermeddle or concern themſelves with the matters of the accompt.</p>
+            <p>A new and large revenue will not probably fare better in the Pipe then the old. And how much to the diſadvantage of the Crown the revenue already there in charge hath been managed, will ſomewhat appear by a ſhort Table of the Sheriffs whole charge, beſides what is in Farm, and by the ſmall pittance that is anſwered into the Receipt.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>His Vicondels rents</cell>
+                     <cell>4000</cell>
+                  </row>
+                  <row>
+                     <cell>Fines before the Clerk of the market</cell>
+                     <cell>400</cell>
+                  </row>
+                  <row>
+                     <cell>Part of the Green-wax not in Farm</cell>
+                     <cell>3000</cell>
+                  </row>
+                  <row>
+                     <cell>Debts <hi>per total<g ref="char:abbrapo">’</g> Pipae</hi> near</cell>
+                     <cell>20000</cell>
+                  </row>
+                  <row>
+                     <cell>Seiſures upon the foraign accompts <hi>Communibus annis</hi>
+                     </cell>
+                     <cell>27000</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Total.</hi>
+                     </cell>
+                     <cell>54400</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Beſides Fines and amercements upon the Sheriffs themſelves, and di<g ref="char:EOLhyphen"/>vers Fee-farm rents payable <hi>ad Scaccarium tantum</hi> ſometimes of great value, drawn into the Sheriffs Accompt by the undue ſummons of the Pipe to furniſh unjuſt allowances.</p>
+            <p>Of this great charge there is not paid yearly into the Receipt 3000 <hi>l.</hi> the reſidue is cut off by ſome wayes and methods which deſerve to be in<g ref="char:EOLhyphen"/>quired into.</p>
+            <div type="part">
+               <head>Miſchiefs in reference to the Subject.</head>
+               <p n="1">1 EVery Sheriff will be thereby put to exceſſive trouble and charge in entring of ſeveral ſecurities for every 100 <hi>l.</hi> according the courſe of the Exchequer.</p>
+               <p n="2">2 The taking of his charge yearly, whether from the Auditor or Clerk of the Pipe will be very expenſive to him.</p>
+               <p n="3">3 So will the yearly Rental preſcribed by the Act.</p>
+               <p n="4">4 The paſſing of his Accompt, which will be four times as long as now it is, and his <hi>Quietus eſt</hi> will be an inſupportable burden, if the charge of his preſent Accompt be a grievance, as no doubt it is.</p>
+               <p n="5">5 It will be a work not only highly troubleſome, but almoſt impoſsible
+<pb n="6" facs="tcp:135627:5" rendition="simple:additions"/>for the Sheriffe within the time limited to Collect the infinite ſmall rents diſperſt throughout every corner of his Bailiwick.</p>
+               <p n="6">6 By entering into Recognizance a danger is intailed upon him and his poſterity, until every penny of his charge be truly diſcharged, which pro<g ref="char:EOLhyphen"/>bably may never be: at leaſt not for ſome generations.</p>
+               <p n="7">7 It ſeems unreaſonable to impoſe ſo great trouble, charge and danger upon the Sheriffs (who have already ſmarted ſo much from the Pipe) without a proportionable reward. And to allow ſuch reward (which of neceſsity (if proportionable) muſt exceed the preſent charge of anſwe<g ref="char:EOLhyphen"/>ring of the Revenue) would be to take the bread from the Auditors and Receivers, his Majeſties ancient and loyal ſubjects and ſervants, and to caſt it to the under-Sheriffs and the Pipe; for the high-Sheriffs only ſhare the charge and danger, but the under-Sheriffs and the Pipe divide the ſpoil.</p>
+               <p n="8">8 All Farmers, Fee-farmers, and other his Majeſties tenants will be there<g ref="char:EOLhyphen"/>by inſupportably vext and burdened, for beſides paying the Sheriff for levying the rents, when he levyes by Proceſſe, they ſhall pay both for the Proceſſe and diſcharge upon the great Roll: and if a rent never ſo ſmall be once <hi>in ſuper,</hi> though the tenant come in voluntarily and pay it, he ſhall not be diſcharged without taking his <hi>Quietus eſt,</hi> ſo that one ſhilling ſhall coſt him twenty.</p>
+               <p n="9">9 The Auditors and Receivers having their offices eſtabliſhed by ſeveral Acts of Parliament, and granted to them for their lives by Letters Pa<g ref="char:EOLhyphen"/>tents from the Kings of this Realm, with all fees and profits incident to the ſame, which are for the moſt part payable out of the revenue within their charge, do hope that they ſhall not be diveſted of their rights and freeholds, unleſs ſome crime be laid and proved againſt them, or that your grave wiſdomes ſhall judge after a full and perfect debate of all intereſts, that the Crown ſuſtains by their Offices an unneceſſary and conſiderable damage, which by the alteration will be redreſt.</p>
+               <p>It is laſtly humbly propoſed on his Majeſties behalf, that before farther credit be gained to the ſpecious ſuggeſtions of the Bill, a ſurvey may be taken of the managery of that Revenue already in charge in the great Roll, to the end a juſt eſtimate may be made of its fitneſs to contain a larger Revenue, conſiſtent with his Majeſties ſecurity and the peoples eaſe and in<g ref="char:EOLhyphen"/>tereſt.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
